@@ -1,0 +1,18 @@
+17
+5298,Michael Patel,8,15,7,45
+6209,Abigail Foster,14,15,14,77
+4865,Alexander Cruz,17,11,16,99
+3578,Olivia Hayes,19,11,15,81
+1717,Amelia Lane,14,17,18,66
+8439,William Reed,10,11,10,43
+2533,Ella Chen,6,15,10,55
+3110,Emily Murphy,5,6,8,33
+7942,Mason Gray,20,20,20,100
+9357,Aiden Carter,15,17,18,92
+2471,Isabella Knight,14,10,13,43
+3652,Daniel Garcia,12,15,14,40
+4809,Grace Flores,11,13,12,38
+5193,Ryan Larson,15,11,13,45
+6338,Elijah Cooper,14,13,10,39
+7072,Zoe Fisher,13,12,12,47
+8285,Henry Morgan,10,15,13,42
